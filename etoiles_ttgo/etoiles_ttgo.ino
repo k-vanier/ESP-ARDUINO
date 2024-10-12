@@ -47,30 +47,6 @@ void setup() {
   //tft.fastSetup(); // Prepare plot window range for fast pixel plotting
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 void loop()
 {
   unsigned long t0 = micros();
