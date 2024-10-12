@@ -38,7 +38,7 @@ void setup() {
 
   Serial.begin(115200);
   tft.init();
-  tft.setRotation(1);
+  tft.setRotation(0);
   tft.fillScreen(TFT_RED);
 
   // fastSetup() must be used immediately before fastPixel() to prepare screen
